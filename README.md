@@ -6,6 +6,8 @@ A aplicação solicita ao usuário o nome do produto, o preço no mês anterior 
 O código inclui estruturas de decisão, manipulação de strings e operações matemáticas, servindo como prática para conceitos fundamentais da programação em C.
 Além disso, conta com comentários explicativos e pseudocódigo para facilitar o entendimento e estudo do funcionamento do programa.
 
+> 📌 **Observação:** Este projeto foi desenvolvido como parte das atividades acadêmicas da faculdade, com o objetivo de praticar lógica de programação e fundamentos da linguagem C.
+
 ---
 
 ## 🚀 Como executar
@@ -71,3 +73,4 @@ Situação: AUMENTO
 ## ✨ Autor
 
 Desenvolvido por [Angela] 💻
+Projeto acadêmico para fins de estudo e prática em programação.
